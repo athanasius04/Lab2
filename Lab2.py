@@ -1,2 +1,6 @@
-print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
-      
+
+def display_main_menu():
+    print("Enter some numbers seperated by commas (E.g. 5, 67, 32)")
+
+
+
